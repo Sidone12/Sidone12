@@ -3,15 +3,20 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Oleksii</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="30"/></h1>
 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
 
-<hr>
+
 
 <h4 align="center">A pasionate frontend developer from Ukraine. I have a passion for learning new things related to Frontend development, creating programs and applications. I mainly work with Vue and everything related to this framework. I would like to work with new projects with you.</h4>
 
-<hr>
 
-Languages and Tools
+
+<h2>
+  🔧 Technologies & Tools
+</h2>
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -33,7 +38,9 @@ Languages and Tools
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-<hr>
 <br>
+<h2>
+  📊 Github Stats
+</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidone12&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
